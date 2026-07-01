@@ -1,4 +1,4 @@
-# 🏗 yj-platform-lab
+#  yj-platform-lab
 
 Infrastructure, AI and Automation projects.
 
