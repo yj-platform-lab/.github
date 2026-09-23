@@ -1,12 +1,3 @@
 #  yj-platform-lab
-
-Infrastructure, AI and Automation projects.
-
-## Projects
-
-- 🤖 AI Trading Platform
-- 🧪 Tech Verification
-
----
-
-Infrastructure, AI and Automation projects managed with Terraform.
+Junnosuke Yufuのインフラ検証・自動化・アプリ開発の記録をまとめています。
+成果物の一覧は[個人ページ](https://github.com/JunnosukeYufu)にまとめています。
